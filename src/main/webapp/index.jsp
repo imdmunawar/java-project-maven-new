@@ -22,7 +22,7 @@
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
             <li class="nav-items"><a href="#">irfan singh</a></li>
-            <li class="nav-items"><a href="#">chadda</a></li>
+            <li class="nav-items"><a href="#">baghii</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
